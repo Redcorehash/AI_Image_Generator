@@ -33,7 +33,7 @@ const ImageGenerator: NextPage = () => {
         
         {/* <Generate /> */}
         <div className="w-full sm:w-3/4 lg:w-1/2 rounded-md flex items-center justify-center bg-indigo-800">
-          <h2 className="text-white">Currently Under Maintenance</h2>
+          <h2 className="text-white">Ты долбайёб</h2>
         </div>
         <Navbar />
         
